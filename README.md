@@ -1,6 +1,6 @@
 #  Claudio Souza
 
-**`Desenvolvedor FullStack`**
+**`Full Stack Developer`**
 
 ### 🤖 Linguagens e Tecnologias
 
